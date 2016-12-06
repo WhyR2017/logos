@@ -76,4 +76,5 @@ opts_chunk$set(
     - Jeden w stylu przyszłej strony (jej jeszcze nie ma)
 - Płachta do rozwieszenia nad wejściem wydziału (to trzeba sprawdzić czy się da powiesić) - 1 styl
 - Przód książki abstraktów - 1 styl
+- Identyfikatory - dwustronnie
 
