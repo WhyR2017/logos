@@ -1,0 +1,79 @@
+---
+title: "logotypy WhyR?"
+output:
+  html_document:
+    theme: flatly
+    number_sections: yes
+    toc: yes
+    toc_depth: 2
+    fig_width: 12
+    fig_height: 8
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+---
+
+```{r, echo=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+library(knitr)
+opts_chunk$set(
+	comment = "",
+	fig.width = 12, 
+	message = FALSE,
+	warning = FALSE,
+	tidy.opts = list(
+		keep.blank.line = TRUE,	
+		width.cutoff = 120
+		),
+	options(width = 80),
+	eval = TRUE
+)
+```
+
+# Logotypy
+
+## Formaty
+
+- Zdjęcie w tle; umieszczane (2 wersje: z białym tłem, w stylu obecnej strony (ciemne zdjęcie wydziału) + białe napisy)
+    - Na grupie RUsersPoland na facebooku w tle
+    - Na fanpage https://www.facebook.com/whyRconf w tle
+    - Na wydarzeniu dla fanpage https://www.facebook.com/whyRconf na facebooku w tle 
+    - Na twitter'ze na profilu twitter.com/whyRconf
+
+- Logo szerokie; umieszczane
+    - Na Rbloggers (o ile to możliwe)
+    - Jako zdjęcia we wpisach reklamujących konferencję
+    - Na materiałach promocyjnych
+    - Na koszulkach
+  
+- Logo kwadratowe; umieszczane
+    - Jako zdjęcie profilowe na facebooku https://www.facebook.com/whyRconf
+    - Jako zdjęcie profilowe na twitter'ze twitter.com/whyRconf
+    - Na materiałach promocyjnych
+  
+- Logo wąskie;
+    - Umieszczae w bocznych grid panelach na blogach i stronach organizatorów i partnerów
+    - Na materiałach promocyjnych
+
+
+## Style
+
+- Prosty styl z napisami czarno biały (bez tła)
+- Prosty styl z napisami czarno białymi i czerwonymi elementami (bez tła)
+- Prosty styl z napisami z białymi napisami (bez tła)
+- Złożony styl z napisami czarno białymi (bez tła)
+- Złożony styl z napisami czarno białymi i czerwonymi elementami (bez tła)
+- Złożony styl z napisami z białymi napisami (bez tła)
+- Skomplikowany styl (z wykresem na środku) z napisami czarno białymi (bez tła)
+- Skomplikowany styl (z wykresem na środku) z napisami czarno białymi i czerwonymi elementami i niebieskimi elementami wykresu (bez tła)
+- Skomplikowany styl (z wykresem na środku) z napisami białymi (bez tła)
+
+
+# Materiały promocyjne
+
+- Plakat, 2 wersje
+    - Jeden w stylu obecnej strony (ciemne zdjęcie wydziału) + białe napisy
+    - Jeden w stylu przyszłej strony (jej jeszcze nie ma)
+- Płachta do rozwieszenia nad wejściem wydziału (to trzeba sprawdzić czy się da powiesić) - 1 styl
+- Przód książki abstraktów - 1 styl
+
